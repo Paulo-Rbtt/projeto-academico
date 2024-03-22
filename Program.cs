@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Models;
+
+Aluno aluno = new ("Paulo Roberto", 23, "ADS", 128233168);
+
+
